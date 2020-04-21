@@ -1,0 +1,13 @@
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\bin\Debug\netcoreapp3.1\RoomCalc.exe
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\bin\Debug\netcoreapp3.1\RoomCalc.deps.json
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\bin\Debug\netcoreapp3.1\RoomCalc.runtimeconfig.json
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\bin\Debug\netcoreapp3.1\RoomCalc.runtimeconfig.dev.json
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\bin\Debug\netcoreapp3.1\RoomCalc.dll
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\bin\Debug\netcoreapp3.1\RoomCalc.pdb
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.csprojAssemblyReference.cache
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.csproj.CoreCompileInputs.cache
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.AssemblyInfoInputs.cache
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.AssemblyInfo.cs
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.dll
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.pdb
+C:\Users\kenda\OneDrive\Desktop\Git\Deliverable2\RoomCalc\RoomCalc\obj\Debug\netcoreapp3.1\RoomCalc.genruntimeconfig.cache
